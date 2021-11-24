@@ -1,9 +1,35 @@
+@font-face {
+  font-family: "Covik Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/Covik_Sans_Mono-Regular.woff2") format("woff2"),
+    url("/fonts/Covik_Sans_Mono-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Covik Sans Mono";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/Covik_Sans_Mono-Italic.woff2") format("woff2"),
+    url("/fonts/Covik_Sans_Mono-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Covik Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/Covik_Sans_Mono-Bold.woff2") format("woff2"),
+    url("/fonts/Covik_Sans_Mono-Bold.woff") format("woff");
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, system-ui, sans-serif;
+  font-family: "Covik Sans Mono", -apple-system, system-ui, sans-serif;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: "Covik Sans Mono", monospace;
 }

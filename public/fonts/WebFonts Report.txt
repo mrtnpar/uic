@@ -1,0 +1,220 @@
+Web Fonts:
+**********
+
+CovikSansMono-Black.otf
+-----------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-Black.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Black.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmpyqumrjw3.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-BlackItalic.otf
+-----------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-BlackItalic.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Black_Italic.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmp3f5cyqzr.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-Bold.otf
+----------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-Bold.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Bold.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmpsoejcrfx.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-BoldItalic.otf
+----------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-BoldItalic.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Bold_Italic.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmpvznjj_p7.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-Italic.otf
+------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-Italic.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Italic.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmpgq6ayhbi.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-Medium.otf
+------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-Medium.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Medium.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmpvqn7ekvu.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-MediumItalic.otf
+------------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-MediumItalic.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Medium_Italic.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmpdfu8di6v.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-Regular.otf
+-------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-Regular.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Regular.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmp67vwnjc3.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-Semibold.otf
+--------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-Semibold.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Semibold.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmpqdghjd2j.ttf' Revision 0.000
+        
+        --------------------
+
+
+CovikSansMono-SemiboldItalic.otf
+--------------------------------
+source: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/OTFs/CovikSansMono-SemiboldItalic.otf
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jamesedmondson/Dropbox/Ohno/Typefaces/Covik Sans/Mono/Source/Webfonts/WOFF2/Covik_Sans_Mono-Semibold_Italic.woff2
+    Source is binary a OTF file. Convert to TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'\n' Built release mode font 'tmp3if0826r.ttf' Revision 0.000
+        
+        --------------------
+
+
+
+TTFAutohint options:
+********************
+addTTFAutoHintInfo     = False
+dwClearType            = False
+fallbackScript         = False
+gdiClearType           = True
+grayScale              = False
+hintRangeMaximum       = 50
+hintRangeMinimum       = 8
+hintingLimit           = 200
+noHintingLimit         = False
+noXHeightIncreaseLimit = False
+overRideFontLicense    = False
+preHinting             = False
+symbolFont             = False
+xHeightIncreaseLimit   = 14
