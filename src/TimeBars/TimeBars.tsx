@@ -11,7 +11,16 @@ export const TimeBars: React.FC<TimeBarsProps> = ({
 }) => {
   return (
     <section className="time-bars">
-      <h1>{title}</h1>
+      <h1 className="title">{title}</h1>
+      <div className="bars">
+        <div className="bar" />
+        <div className="bar" />
+        <div className="bar" />
+        <div className="bar" />
+        <div className="bar" />
+        <div className="bar" />
+        <div className="bar" />
+      </div>
     </section>
   );
 };

@@ -1,3 +1,21 @@
 .time-bars {
-  color: yellow;
+}
+
+.title {
+}
+
+.bars {
+  display: grid;
+  gap: 0.5rem;
+  max-width: 10rem;
+  grid-auto-flow: column;
+  overflow-x: auto;
+  padding: 1rem 0;
+}
+
+.bar {
+  width: 2rem;
+  height: 5rem;
+  background-color: red;
+  border-radius: 0.25rem;
 }
