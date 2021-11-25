@@ -25,6 +25,15 @@
     url("/fonts/Covik_Sans_Mono-Bold.woff") format("woff");
 }
 
+:root {
+  --bg-color: #333;
+  --fg-color: #fff;
+
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  font-size: 1.25rem;
+}
+
 body {
   margin: 0;
   font-family: "Covik Sans Mono", -apple-system, system-ui, sans-serif;

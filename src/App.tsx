@@ -4,14 +4,17 @@ import { TimeBars } from "./TimeBars";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">UI Challenges</header>
-      <Routes>
-        <Route
-          path="/time-bars"
-          element={<TimeBars title="Prices over time" />}
-        />
-      </Routes>
+    <div className="app">
+      <header className="app-header">UI Challenges</header>
+
+      <div className="app-content">
+        <Routes>
+          <Route
+            path="/time-bars"
+            element={<TimeBars title="Prices over time" />}
+          />
+        </Routes>
+      </div>
     </div>
   );
 }

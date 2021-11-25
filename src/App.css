@@ -1,0 +1,15 @@
+.app {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr 4fr;
+  gap: 2rem;
+}
+
+.app-header {
+  padding: 2rem;
+}
+
+.app-content {
+  display: grid;
+  place-items: center;
+}
